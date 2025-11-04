@@ -1,0 +1,20 @@
+
+{
+  "name": "presentacion-teoria-de-juegos",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Una presentación interactiva sobre el Dilema del Prisionero para un curso de instituciones políticas.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Para iniciar, simplemente abre el archivo index.html en tu navegador.\"",
+    "test": "echo \"No hay tests configurados.\""
+  },
+  "keywords": [
+    "react",
+    "game-theory",
+    "netlify",
+    "interactive"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
